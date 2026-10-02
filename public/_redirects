@@ -1,0 +1,3 @@
+# Single-page app: send every path to index.html so refreshes and deep links don't 404.
+# This file works the same way on Cloudflare Pages and Netlify.
+/*  /index.html  200

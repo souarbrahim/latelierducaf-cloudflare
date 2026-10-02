@@ -1,0 +1,50 @@
+{
+  "brand": "L’Atelier du Café",
+  "description": "Reusable brand color palette for the website, invoices, proposals, and other branded documents.",
+  "colors": {
+    "cream": {
+      "hex": "#F1E5D4",
+      "usage": "Primary page and invoice background"
+    },
+    "ink": {
+      "hex": "#182238",
+      "usage": "Primary text, headings, logos, and dark panels"
+    },
+    "terracotta": {
+      "hex": "#C66943",
+      "usage": "Primary accent, buttons, highlights, and invoice totals"
+    },
+    "rust": {
+      "hex": "#B84E2E",
+      "usage": "Strong accent for emphasis and active states"
+    },
+    "sage": {
+      "hex": "#39756E",
+      "usage": "Secondary accent for labels, links, and supporting details"
+    },
+    "sand": {
+      "hex": "#D1C3AD",
+      "usage": "Borders, dividers, rules, and table lines"
+    },
+    "softPeach": {
+      "hex": "#EDC2A2",
+      "usage": "Soft highlight fills and subtle decorative accents"
+    },
+    "paper": {
+      "hex": "#F8EAD7",
+      "usage": "Light text, cards, and secondary paper surfaces"
+    },
+    "mutedInk": {
+      "hex": "#5A6067",
+      "usage": "Secondary text, notes, metadata, and invoice footnotes"
+    }
+  },
+  "invoiceDefaults": {
+    "background": "#F1E5D4",
+    "text": "#182238",
+    "accent": "#C66943",
+    "secondaryAccent": "#39756E",
+    "border": "#D1C3AD",
+    "mutedText": "#5A6067"
+  }
+}
